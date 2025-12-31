@@ -173,7 +173,7 @@ This project is created for educational purposes.
 
 ## 👨‍💻 Development
 
-Built with ❤️ using Kotlin and Jetpack Compose
+Built with ❤️ using Kotlin and Jetpack Compose.
 
 ---
 
